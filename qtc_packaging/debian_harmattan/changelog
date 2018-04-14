@@ -1,0 +1,30 @@
+katarina (0.3.3harmattan1) unstable; urgency=low
+
+  * New 3D model file resource from LolKing.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Mon, 27 Feb 2017 10:16:13 +0800
+
+ katarina (0.3.2harmattan1) unstable; urgency=low
+
+   * View hero 3D model animation.
+
+  -- Karin Zhao <beyondk2000@gmail.com>  Wed, 03 Aug 2016 19:09:13 +0800
+
+katarina (0.2.1harmattan1) unstable; urgency=low
+
+  * View hero 3D static model.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Sun, 31 Jul 2016 19:09:13 +0800
+
+katarina (0.0.2harmattan1) unstable; urgency=low
+
+   * View player match detail.
+   * View news and albums.
+
+  -- Karin Zhao <beyondk2000@gmail.com>  Sat, 25 Jun 2016 19:09:13 +0800
+
+katarina (0.0.1harmattan1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Fri, 17 Jun 2016 02:40:13 +0800

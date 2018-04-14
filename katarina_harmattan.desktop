@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=Katarina
+Exec=/usr/bin/invoker --type=d -s /opt/katarina/bin/katarina
+Icon=/usr/share/icons/hicolor/80x80/apps/katarina80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
